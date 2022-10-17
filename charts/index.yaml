@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  hello-mr-badger:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-10-17T14:05:10.037398+04:00"
+    description: A Helm chart for Kubernetes
+    digest: 83443bb02d0ace0264d8b056e7d3c2cd997f7ea436119d18bbb4ba4a2a51b097
+    home: https://github.com/chesnovskii/hello-mr-badger
+    name: hello-mr-badger
+    sources:
+    - https://github.com/chesnovskii/hello-mr-badger.git
+    type: application
+    urls:
+    - https://chesnovskii.github.io/hello-mr-badger/charts/hello-mr-badger-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-17T14:05:10.032969+04:00"
