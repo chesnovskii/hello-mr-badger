@@ -12,7 +12,7 @@ else
 endif
 
 DOCKER_IMAGE_NAME ?= chesnovskii/hello-mr-badger
-DOCKER_IMAGE_TAG ?= 1.0
+DOCKER_IMAGE_TAG ?= 1.1
 APP ?= hello-mr-badger
 
 default: help
